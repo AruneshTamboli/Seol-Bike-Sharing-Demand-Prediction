@@ -1,7 +1,5 @@
 # Project Title : Seoul Bike Sharing Demand Prediction
 
-## Google Collab link: 
-https://colab.research.google.com/github/AruneshTamboli/Seol-Bike-Sharing-Demand-Prediction/blob/main/(Proponent_Ds)_Bike_Sharing_Demand_Prediction_2_Capstone_Project.ipynb
 
 ## Problem Description:
 
