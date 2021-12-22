@@ -1,24 +1,39 @@
 # Project Title : Seoul Bike Sharing Demand Prediction
 
-# Google Collab link: 
+## Google Collab link: 
 https://colab.research.google.com/github/AruneshTamboli/Seol-Bike-Sharing-Demand-Prediction/blob/main/(Proponent_Ds)_Bike_Sharing_Demand_Prediction_2_Capstone_Project.ipynb
 
-# Problem Description:
+## Problem Description:
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
+## Approach Taken
+1. Importing libraries
+2. Exploratory Data Analysis
+3. Extracting features from date
+4. Model Building
 
-# Data Description:
+* LINEAR REGRESION
 
-The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
+* LASSO REGRESSION
+
+* RIDGE REGRESSION
+
+* DECISION TREE
+* 
+* GRADIENT BOOSTING
+
+* RANDOM FORREST
+
+* XGBOOST
 
 
-# Model Summary
+## Model Summary
 
 ![image](https://user-images.githubusercontent.com/88345564/147151585-ae2c29c2-4875-4f42-a598-234c6c12fd53.png)
 
 
-# Conclusions:
+## Conclusions:
 
 
 * As it was stated in the problem, rented bike count was low in 2017 untill november. That is when business took off and rented bike count started increasing.
