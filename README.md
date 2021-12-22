@@ -14,18 +14,14 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 4. Model Building
 
 * LINEAR REGRESION
-
 * LASSO REGRESSION
-
 * RIDGE REGRESSION
-
 * DECISION TREE
-* 
 * GRADIENT BOOSTING
-
 * RANDOM FORREST
-
 * XGBOOST
+
+5. Model Evaluation
 
 
 ## Model Summary
