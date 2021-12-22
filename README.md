@@ -8,20 +8,20 @@ https://colab.research.google.com/github/AruneshTamboli/Seol-Bike-Sharing-Demand
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 ## Approach Taken
-1. Importing libraries
-2. Exploratory Data Analysis
-3. Extracting features from date
-4. Model Building
+* Importing libraries
+* Exploratory Data Analysis
+* Extracting features from date
+* Model Building
 
-* LINEAR REGRESION
-* LASSO REGRESSION
-* RIDGE REGRESSION
-* DECISION TREE
-* GRADIENT BOOSTING
-* RANDOM FORREST
-* XGBOOST
+1. LINEAR REGRESION
+2. LASSO REGRESSION
+3. RIDGE REGRESSION
+4. DECISION TREE
+5. GRADIENT BOOSTING
+6. RANDOM FORREST
+7. XGBOOST
 
-5. Model Evaluation
+* Model Evaluation
 
 
 ## Model Summary
